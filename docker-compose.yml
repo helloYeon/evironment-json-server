@@ -1,0 +1,11 @@
+version: '3'
+services:
+  json-server:
+    build: ./docker-local
+    container_name: test-json-server
+    ports:
+      - '3000:3000'
+    volumes: 
+      - ./data/db.json:/data/db.json
+    command: json-server --watch db.json --host 0.0.0.0
+
