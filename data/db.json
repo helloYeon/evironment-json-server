@@ -1,356 +1,358 @@
 {
-  "summary": {
-    "today": "2000-01-23",
-    "lastWeight": 32.02,
-    "weight": 32.02,
-    "lastDate": "2022/02/09"
-  },
-  "list": [
-    {
-      "setName": "セット名",
-      "drugId": 1233,
-      "type": 1,
-      "timesInfos": [
-        {
-          "drugInfos": [
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
-            },
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
-            }
-          ],
-          "mainStaffCode": "333",
-          "times": 1,
-          "linkedItemInfos": [
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
-            },
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
-            }
-          ],
-          "mainStaffId": 333,
-          "mainStaffName": "山田 太郎",
-          "totalInfos": [
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            },
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            }
-          ],
-          "subStaffInfos": {
-            "code": "111",
-            "name": "鈴木 一朗",
-            "id": 111
-          }
-        },
-        {
-          "drugInfos": [
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
-            },
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
-            }
-          ],
-          "mainStaffCode": "333",
-          "times": 1,
-          "linkedItemInfos": [
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
-            },
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
-            }
-          ],
-          "mainStaffId": 333,
-          "mainStaffName": "山田 太郎",
-          "totalInfos": [
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            },
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            }
-          ],
-          "subStaffInfos": {
-            "code": "111",
-            "name": "鈴木 一朗",
-            "id": 111
-          }
-        }
-      ]
+  "dummy": {
+    "summary": {
+      "today": "2000-01-23",
+      "lastWeight": 32.02,
+      "weight": 32.02,
+      "lastDate": "2022/02/09"
     },
-    {
-      "setName": "セット名",
-      "drugId": 1233,
-      "type": 1,
-      "timesInfos": [
-        {
-          "drugInfos": [
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
-            },
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
+    "list": [
+      {
+        "setName": "セット名",
+        "drugId": 1233,
+        "type": 1,
+        "timesInfos": [
+          {
+            "drugInfos": [
+              {
+                "isAutoCarl": true,
+                "injectionRoute": "Ⅳ",
+                "practitioner": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "name": "薬剤名",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 0,
+                "comment": "コメント",
+                "doseUnit": "Ⅳ"
+              },
+              {
+                "isAutoCarl": true,
+                "injectionRoute": "Ⅳ",
+                "practitioner": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "name": "薬剤名",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 0,
+                "comment": "コメント",
+                "doseUnit": "Ⅳ"
+              }
+            ],
+            "mainStaffCode": "333",
+            "times": 1,
+            "linkedItemInfos": [
+              {
+                "quantity": 5,
+                "name": "項目名",
+                "quantityUnit": "回"
+              },
+              {
+                "quantity": 5,
+                "name": "項目名",
+                "quantityUnit": "回"
+              }
+            ],
+            "mainStaffId": 333,
+            "mainStaffName": "山田 太郎",
+            "totalInfos": [
+              {
+                "injectionRoute": "Ⅳ",
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "practitioner": "田中次郎",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 6,
+                "comment": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnit": "Ⅳ"
+              },
+              {
+                "injectionRoute": "Ⅳ",
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "practitioner": "田中次郎",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 6,
+                "comment": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnit": "Ⅳ"
+              }
+            ],
+            "subStaffInfos": {
+              "code": "111",
+              "name": "鈴木 一朗",
+              "id": 111
             }
-          ],
-          "mainStaffCode": "333",
-          "times": 1,
-          "linkedItemInfos": [
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
-            },
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
+          },
+          {
+            "drugInfos": [
+              {
+                "isAutoCarl": true,
+                "injectionRoute": "Ⅳ",
+                "practitioner": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "name": "薬剤名",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 0,
+                "comment": "コメント",
+                "doseUnit": "Ⅳ"
+              },
+              {
+                "isAutoCarl": true,
+                "injectionRoute": "Ⅳ",
+                "practitioner": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "name": "薬剤名",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 0,
+                "comment": "コメント",
+                "doseUnit": "Ⅳ"
+              }
+            ],
+            "mainStaffCode": "333",
+            "times": 1,
+            "linkedItemInfos": [
+              {
+                "quantity": 5,
+                "name": "項目名",
+                "quantityUnit": "回"
+              },
+              {
+                "quantity": 5,
+                "name": "項目名",
+                "quantityUnit": "回"
+              }
+            ],
+            "mainStaffId": 333,
+            "mainStaffName": "山田 太郎",
+            "totalInfos": [
+              {
+                "injectionRoute": "Ⅳ",
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "practitioner": "田中次郎",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 6,
+                "comment": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnit": "Ⅳ"
+              },
+              {
+                "injectionRoute": "Ⅳ",
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "practitioner": "田中次郎",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 6,
+                "comment": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnit": "Ⅳ"
+              }
+            ],
+            "subStaffInfos": {
+              "code": "111",
+              "name": "鈴木 一朗",
+              "id": 111
             }
-          ],
-          "mainStaffId": 333,
-          "mainStaffName": "山田 太郎",
-          "totalInfos": [
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            },
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            }
-          ],
-          "subStaffInfos": {
-            "code": "111",
-            "name": "鈴木 一朗",
-            "id": 111
           }
-        },
-        {
-          "drugInfos": [
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
-            },
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
+        ]
+      },
+      {
+        "setName": "セット名",
+        "drugId": 1233,
+        "type": 1,
+        "timesInfos": [
+          {
+            "drugInfos": [
+              {
+                "isAutoCarl": true,
+                "injectionRoute": "Ⅳ",
+                "practitioner": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "name": "薬剤名",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 0,
+                "comment": "コメント",
+                "doseUnit": "Ⅳ"
+              },
+              {
+                "isAutoCarl": true,
+                "injectionRoute": "Ⅳ",
+                "practitioner": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "name": "薬剤名",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 0,
+                "comment": "コメント",
+                "doseUnit": "Ⅳ"
+              }
+            ],
+            "mainStaffCode": "333",
+            "times": 1,
+            "linkedItemInfos": [
+              {
+                "quantity": 5,
+                "name": "項目名",
+                "quantityUnit": "回"
+              },
+              {
+                "quantity": 5,
+                "name": "項目名",
+                "quantityUnit": "回"
+              }
+            ],
+            "mainStaffId": 333,
+            "mainStaffName": "山田 太郎",
+            "totalInfos": [
+              {
+                "injectionRoute": "Ⅳ",
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "practitioner": "田中次郎",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 6,
+                "comment": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnit": "Ⅳ"
+              },
+              {
+                "injectionRoute": "Ⅳ",
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "practitioner": "田中次郎",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 6,
+                "comment": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnit": "Ⅳ"
+              }
+            ],
+            "subStaffInfos": {
+              "code": "111",
+              "name": "鈴木 一朗",
+              "id": 111
             }
-          ],
-          "mainStaffCode": "333",
-          "times": 1,
-          "linkedItemInfos": [
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
-            },
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
+          },
+          {
+            "drugInfos": [
+              {
+                "isAutoCarl": true,
+                "injectionRoute": "Ⅳ",
+                "practitioner": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "name": "薬剤名",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 0,
+                "comment": "コメント",
+                "doseUnit": "Ⅳ"
+              },
+              {
+                "isAutoCarl": true,
+                "injectionRoute": "Ⅳ",
+                "practitioner": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "name": "薬剤名",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 0,
+                "comment": "コメント",
+                "doseUnit": "Ⅳ"
+              }
+            ],
+            "mainStaffCode": "333",
+            "times": 1,
+            "linkedItemInfos": [
+              {
+                "quantity": 5,
+                "name": "項目名",
+                "quantityUnit": "回"
+              },
+              {
+                "quantity": 5,
+                "name": "項目名",
+                "quantityUnit": "回"
+              }
+            ],
+            "mainStaffId": 333,
+            "mainStaffName": "山田 太郎",
+            "totalInfos": [
+              {
+                "injectionRoute": "Ⅳ",
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "practitioner": "田中次郎",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 6,
+                "comment": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnit": "Ⅳ"
+              },
+              {
+                "injectionRoute": "Ⅳ",
+                "doseUnitNameId": 1233,
+                "dose": 32.02,
+                "implementationDate": "03:12",
+                "practitioner": "田中次郎",
+                "scheduleDate": "03:12",
+                "dosePerUnit": 6,
+                "comment": "田中次郎",
+                "implementationFlag": false,
+                "injectionRouteNameId": 123,
+                "doseUnit": "Ⅳ"
+              }
+            ],
+            "subStaffInfos": {
+              "code": "111",
+              "name": "鈴木 一朗",
+              "id": 111
             }
-          ],
-          "mainStaffId": 333,
-          "mainStaffName": "山田 太郎",
-          "totalInfos": [
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            },
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            }
-          ],
-          "subStaffInfos": {
-            "code": "111",
-            "name": "鈴木 一朗",
-            "id": 111
           }
-        }
-      ]
-    }
-  ]
+        ]
+      }
+    ]
+  }
 }
