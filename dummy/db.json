@@ -1,6 +1,6 @@
 {
   "summary": {
-    "today": "2000-01-23",
+    "today": "2000-05-23",
     "lastWeight": 32.02,
     "weight": 32.02,
     "lastDate": "2022/02/09"
@@ -95,21 +95,6 @@
               "dosePerUnit": 0,
               "comment": "コメント",
               "doseUnit": "Ⅳ"
-            },
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
             }
           ],
           "mainStaffCode": "333",
@@ -129,19 +114,6 @@
           "mainStaffId": 333,
           "mainStaffName": "山田 太郎",
           "totalInfos": [
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            },
             {
               "injectionRoute": "Ⅳ",
               "doseUnitNameId": 1233,
