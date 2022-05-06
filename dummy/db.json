@@ -1,15 +1,12 @@
-{
-  "summary": {
-    "today": "2000-05-23",
-    "lastWeight": 32.02,
-    "weight": 32.02,
-    "lastDate": "2022/02/09"
+[
+  {
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
   },
-  "list": [
-    {
-      "setName": "セット名",
-      "drugId": 1233,
-      "type": 1
-    }
-  ]
-}
+  {
+    "id": 2,
+    "body": "some comment",
+    "postId": 1
+  }
+]
