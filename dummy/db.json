@@ -22,30 +22,7 @@
             }
           ],
           "mainStaffCode": "333",
-          "times": 1,
-          "linkedItemInfos": [
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
-            }
-          ],
-          "mainStaffId": 333,
-          "mainStaffName": "山田 太郎",
-          "totalInfos": [
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            }
-          ],
-          "subStaffInfos": {
-            "code": "111",
-            "name": "鈴木 一朗",
-            "id": 111
-          }
+          "times": 1
         }
       ]
     }
