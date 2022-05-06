@@ -17,14 +17,6 @@
               "isAutoCarl": true,
               "injectionRoute": "Ⅳ",
               "practitioner": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "name": "薬剤名",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 0,
               "comment": "コメント",
               "doseUnit": "Ⅳ"
             }
@@ -32,11 +24,6 @@
           "mainStaffCode": "333",
           "times": 1,
           "linkedItemInfos": [
-            {
-              "quantity": 5,
-              "name": "項目名",
-              "quantityUnit": "回"
-            },
             {
               "quantity": 5,
               "name": "項目名",
@@ -50,25 +37,6 @@
               "injectionRoute": "Ⅳ",
               "doseUnitNameId": 1233,
               "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
-              "injectionRouteNameId": 123,
-              "doseUnit": "Ⅳ"
-            },
-            {
-              "injectionRoute": "Ⅳ",
-              "doseUnitNameId": 1233,
-              "dose": 32.02,
-              "implementationDate": "03:12",
-              "practitioner": "田中次郎",
-              "scheduleDate": "03:12",
-              "dosePerUnit": 6,
-              "comment": "田中次郎",
-              "implementationFlag": false,
               "injectionRouteNameId": 123,
               "doseUnit": "Ⅳ"
             }
