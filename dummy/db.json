@@ -9,22 +9,7 @@
     {
       "setName": "セット名",
       "drugId": 1233,
-      "type": 1,
-      "timesInfos": [
-        {
-          "drugInfos": [
-            {
-              "isAutoCarl": true,
-              "injectionRoute": "Ⅳ",
-              "practitioner": "田中次郎",
-              "comment": "コメント",
-              "doseUnit": "Ⅳ"
-            }
-          ],
-          "mainStaffCode": "333",
-          "times": 1
-        }
-      ]
+      "type": 1
     }
   ]
 }
